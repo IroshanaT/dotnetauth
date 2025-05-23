@@ -1,7 +1,6 @@
 {
   "name": "react_repo",
   "homepage": "https://iroshanat.github.io/dotnetauth",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
